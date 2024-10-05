@@ -1,4 +1,4 @@
-# Affinity Frontend
+# <p align=center>**AFFINITY FRONTEND**</p>
 <p align=center><img src="https://th.bing.com/th/id/OIG2.nnpVrMlOkTNZAkSq5oSj?pid=ImgGn" width=30%></p>
 
 Welcome to the Affinity Frontend repository! This project is part of the broader Affinity platform, focusing exclusively on frontend development. Affinity is a web application designed to connect individuals with similar intellectual levels. The platform utilizes an AI-powered chatbot for matchmaking and includes various interactive games, such as coding rounds, to match users based on their skillset. Once matched, users can engage in meaningful conversations with one another, fostering intellectual connections.
