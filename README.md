@@ -81,7 +81,7 @@ This will start the development server and you can view the application in your 
   - **index.js**: The entry point of the application.
 
 
-> **Note**: Users are informed that they have the complete right to manipulate the sample data present in *sampleData.js*, as it is hardcoded. Any changes made will affect only your own codebase and will not impact others.
+> _**Note**: Users are informed that they have the complete right to manipulate the sample data present in *sampleData.js*, as it is hardcoded. Any changes made will affect only your own codebase and will not impact others._
 
 ### Routing
 
